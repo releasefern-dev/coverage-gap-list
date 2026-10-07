@@ -1,0 +1,13 @@
+{
+  "minimum_percent": 80,
+  "files": [
+    {
+      "path": "a.py",
+      "percent": 75
+    },
+    {
+      "path": "b.py",
+      "percent": 90
+    }
+  ]
+}
